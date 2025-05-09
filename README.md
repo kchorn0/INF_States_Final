@@ -8,5 +8,5 @@ This project is a REST API developed for the INF653 Final.
 https://magenta-vigorous-thimbleberry.glitch.me/
 
 ## Api Endpoints
- 
+ https://magenta-vigorous-thimbleberry.glitch.me/states
 
